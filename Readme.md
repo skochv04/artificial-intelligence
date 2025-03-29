@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-## This repository includes completed tasks from the artificial intelligence course at AGH University of Science and Technology.
+This repository includes completed tasks from the artificial intelligence course at AGH University of Science and Technology.
 
 * [Linear and Logistic Regression](lab1/Readme.md)
 * [Decision Trees and Boosting](lab2/Readme.md)
